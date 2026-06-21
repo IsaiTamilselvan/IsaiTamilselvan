@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tamil 👋  <br>Aspiring Software Developer   <br><br>- 🌱 Currently mastering DSA & Java  <br>- 💻 Building Spring Boot + SQL projects  <br>- 📈 Practicing LeetCode daily (check pinned repos)  
+Hi, I'm Tamil 👋  <br>Software Developer   <br><br>- 🌱 Currently mastering DSA & Java  <br>- 💻 Building Spring Boot + SQL projects  <br>- 📈 Practicing LeetCode daily (check pinned repos)  
 
 
 ## 🌐 Socials:
